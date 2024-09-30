@@ -1,0 +1,9 @@
+schema : User
+fields : username,email,password
+
+
+
+===============API for creating user ===============
+
+    url:
+    
